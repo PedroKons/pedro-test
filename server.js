@@ -1,4 +1,3 @@
-require('dotenv').config();
 const Fastify = require('fastify');
 const { Pool } = require('pg');
 
